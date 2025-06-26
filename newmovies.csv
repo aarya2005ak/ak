@@ -1,0 +1,51 @@
+movie_id,title,genre,release_year,rating,boxoffice_coll(cr)
+1,Jawan,Action,2023,6.9,1160
+2,uri,Action,2019,8.2,342
+3,animal,Action,2023,6.1,915
+4,adipurush,Mythological,2023,3.1,392
+5,dil wale dulhaniya le jayenge,drama,1995,8,102
+6,3 Idiots,Comedy,2009,8.4,460
+7,Tiger,Action,2012,5.5,334
+8,pathan,Action,2023,5.8,1055
+9,chennai express,Comedy,2013,6.2,423
+10,ra.one,Action,2011,4.7,207
+11,PK,Comedy,2014,8.1,854
+12,War,Action,2019,6.5,475
+13,Dunki,drama,2023,6.5,458
+14,Dangal,biography,2016,8.3,2024
+15, Om shanti om,drama,2007,6.7,149
+16,Golmaal - Fun Unlimited,Comedy,2006,7.4,69
+17,Dear zindagi,drama,2016,7.5,139
+18,Devdas,drama,2002,7.5,99
+19,Dilwale,Comedy,2015,5.1,408
+20,tumbbad,thriller,2018,8.2,30
+21,Sanam Teri Kasam,drama,2016,7.3,32
+22,Padmaavat,drama,2018,7,585
+23,Ae Dil Hai Mushkil,drama,2016,5.8,237
+24,kick,Action,2014,5.3,402
+25,Gangubai Kathiawadi,biography,2022,7.5,209
+26,Ajab Prem Ki Ghazab Kahani,drama,2009,6.3,103
+27,baaghi,Action,2016,5.2,127
+28,baaghi2,Action,2018,5,253
+29,Thank you,Comedy,2011,4.4,47
+30,welcome,Comedy,2007,7,122
+31,Jab We Met,drama,2007,7.9,69
+32,M.S. Dhoni: The Untold Story,biography,2016,7.9,216
+33,Housefull,Comedy,2010,5.4,124
+34,Housefull 2,Comedy,2012,5.3,186
+35,Ok Jaanu,drama,2017,5.1,39
+36,Aashiqui 2,drama,2013,7,109
+37,Dil Dhadakne Do,drama,2015,6.8,145
+38,vivaah,drama,2006,6.6,64
+39,2 states,drama,2014,6.9,175
+40,Ghajini,Action,2008,7.3,232
+41,De dana dan,Comedy,2009,5.6,95
+42,Entertainment,Comedy,2014,4.5,72
+43,Saawariya,drama,2007,5.3,39
+44,Talaash,thriller,2012,7.2,174
+45,simmba,comedy,2018,5.6,400
+46,Race,Action,2008,7,103
+47,Hum Aapke Hain Koun,drama,1994,7.5,135
+48,Badrinath Ki Dulhania,comedy,2017,6.1,206
+49,Ek Villain,thriller,2014,6.4,170
+50,malang,thriller,2020,7.1,84
